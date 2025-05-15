@@ -1,0 +1,67 @@
+
+.parent {
+    font-size: 15px;
+}
+
+.box-container {
+    color: black;
+    margin: 10px 20px 10px 30px;
+    font-size: 20px;
+}
+
+.exercise {
+    margin: 10px 20px 10px 30px;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.exercise_done {
+    margin: 10px 20px 10px 30px;
+
+    display: none;
+}
+
+.cise {
+    width: 100%;
+    height: auto;
+    background-color: #e7e9eb;
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    padding: 5px 5px 5px 10px;
+
+    display: flex;
+}
+
+.content {
+    margin-left: 20px;
+    width: 80%;
+}
+
+.notificate {
+    display: none;
+}
+.notificate.active{
+    display: block;
+    height: 300px;
+    border-radius: 10px;
+    width: 220px;
+    background-color: antiquewhite;
+    margin-left: 78%;
+    margin-top: 380px;
+   
+    position: absolute;
+    overflow-y: scroll;
+    
+}
+
+.media{
+    padding: 10px;
+    border-bottom: 1px solid;
+}
+

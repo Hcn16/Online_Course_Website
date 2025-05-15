@@ -1,0 +1,15 @@
+
+
+
+
+.text-sm{
+    color:#6c757d;
+}
+
+.text-sm.active{
+    color: black;
+}
+
+#linkSelect { max-height: 100px; /* Set the maximum height */ overflow-y: auto; /* Enable vertical scrolling */ }
+
+
